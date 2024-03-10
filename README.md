@@ -1,2 +1,4 @@
 # Long_Quiz_PartB-
-This github repo has been created for Machine learning model deployment
+This github repo has been created for Machine learning model deployment as a part of longquiz part B. This dataset focuses on students' performance in mathematics, reading, and writing, influenced by factors such as gender, race/ethnicity, parental education level, lunch accessibility, and participation in a test preparation course. In this project, we aim to predict math scores, which will serve as our target variable, while considering the other attributes as independent variables.
+
+Given the nature of the task as a regression problem, we plan to employ various traditional machine learning algorithms, including Linear Regression, Lasso, Ridge, K-Neighbors Regressor, Decision Tree Regressor, Random Forest Regressor, XGBRegressor, CatBoost Regressor, and AdaBoost Regressor. We will conduct a comparative analysis of the prediction performance of these algorithms, selecting the one that achieves the highest accuracy score following the hyper-parameter optimization during the training phase.
